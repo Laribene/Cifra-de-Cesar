@@ -13,6 +13,6 @@ Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondi
 
 As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
 No nosso caso os números e pontos serão mantidos, ou seja:
-- Normal: 1a.a
+- **Normal:** 1a.a
 
-- Cifrado: 1d.d
+- **Cifrado:** 1d.d
